@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pojodojo
 - 👀 I’m interested in videogames and making mad racks
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Godot and GameMaker
 - 💞️ I’m looking to collaborate on making videogames and mad racks
 - 📫 How to reach me: andres.jacome.a1@gmail.com
 
